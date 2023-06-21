@@ -1,0 +1,13 @@
+.link {
+  display: inline-block;
+  margin-right: 15px;
+  padding-left: 10px;
+  color: #0070f3;
+  text-decoration: none;
+  border-left: solid 1px;
+  border-left-color: yellowgreen;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
